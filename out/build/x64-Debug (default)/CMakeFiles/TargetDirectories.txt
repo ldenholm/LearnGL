@@ -1,0 +1,5 @@
+C:/Users/Loki/source/repos/learnGL/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/Loki/source/repos/learnGL/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+C:/Users/Loki/source/repos/learnGL/out/build/x64-Debug (default)/SeeMake1/CMakeFiles/SeeMake1.dir
+C:/Users/Loki/source/repos/learnGL/out/build/x64-Debug (default)/SeeMake1/CMakeFiles/edit_cache.dir
+C:/Users/Loki/source/repos/learnGL/out/build/x64-Debug (default)/SeeMake1/CMakeFiles/rebuild_cache.dir
